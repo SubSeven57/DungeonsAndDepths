@@ -35,10 +35,13 @@ As of right now, we have 3 different folders that will help us keep track of dif
 ## Characters
 
 To submit your character, please open an issue and title it as
-* _Character name_
-
+* [Character] _Character name_
 * Follow this template:
-
-:warning: I need to build a template :warning:
+    Name:
+    Age:
+    Race:
+    Class:
+    Physical Description (optional):
+    Character Backstory (optional) :
 
 Any changes to this template will be first presented as an issue in order to get feedback or opinions.
