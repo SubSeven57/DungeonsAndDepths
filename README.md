@@ -36,7 +36,8 @@ As of right now, we have 3 different folders that will help us keep track of dif
 
 To submit your character, please open an issue and title it as
 * [Character] _Character name_
-* Follow this template:
+
+ Follow this template:
     Name:
     Age:
     Race:
