@@ -38,6 +38,7 @@ To submit your character, please open an issue and title it as
 * [Character] _Character name_
 
  Follow this template:
+    
     Name:
     Age:
     Race:
